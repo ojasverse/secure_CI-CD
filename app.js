@@ -1,4 +1,6 @@
-console.log("hello secure ci/cd");
-const AWS_SECRET_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
-const password = "MyHardcodedPassword123";
-const AWS_SECRET_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
+const aws_key = "AKIA1234567890ABCDE";
+const private_key = `
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA7...
+-----END RSA PRIVATE KEY-----
+`;
